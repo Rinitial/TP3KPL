@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tp3kpl/1.0.0": {
+        "runtime": {
+          "tp3kpl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tp3kpl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

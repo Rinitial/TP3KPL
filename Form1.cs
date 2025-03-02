@@ -6,5 +6,17 @@ namespace tp3kpl
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            String input = textBox1.Text;
+
+            label1.Text = "Halo, " + input;
+        }
     }
 }

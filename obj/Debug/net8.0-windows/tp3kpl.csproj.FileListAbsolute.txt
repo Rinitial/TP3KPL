@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\bin\Debug\net8.0-windows\tp3kpl.exe
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\bin\Debug\net8.0-windows\tp3kpl.deps.json
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\bin\Debug\net8.0-windows\tp3kpl.runtimeconfig.json
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\bin\Debug\net8.0-windows\tp3kpl.dll
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\bin\Debug\net8.0-windows\tp3kpl.pdb
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\obj\Debug\net8.0-windows\tp3kpl.Form1.resources
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\obj\Debug\net8.0-windows\tp3kpl.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\obj\Debug\net8.0-windows\tp3kpl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\obj\Debug\net8.0-windows\tp3kpl.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\obj\Debug\net8.0-windows\tp3kpl.AssemblyInfo.cs
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\obj\Debug\net8.0-windows\tp3kpl.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\obj\Debug\net8.0-windows\tp3kpl.sourcelink.json
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\obj\Debug\net8.0-windows\tp3kpl.dll
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\obj\Debug\net8.0-windows\refint\tp3kpl.dll
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\obj\Debug\net8.0-windows\tp3kpl.pdb
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\obj\Debug\net8.0-windows\tp3kpl.genruntimeconfig.cache
+C:\Users\DELL\source\repos\tp3kpl\tp3kpl\obj\Debug\net8.0-windows\ref\tp3kpl.dll
